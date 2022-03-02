@@ -6,15 +6,13 @@
 # Работа с fastq
 Обрезания последовательностей не производились, так как результаты сильно не меняются  
 Пример для chip-seq ENCFF002AYT  
-До  
+До  / После
 
 <p float="left">
   <img src="/comparison/not_trimmed_1.jpg" width="450" />
-</p>  
-После  
-
-<p float="left">
   <img src="/comparison/trimmed_1.jpg" width="450" />
-</p>
+</p>  
+
+
 
 
