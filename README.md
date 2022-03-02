@@ -11,6 +11,10 @@
 <p float="left">
   <img src="/comparison/not_trimmed_1.jpg" width="400" />
   <img src="/comparison/trimmed_1.jpg" width="400" />
+  <img src="/comparison/not_trimmed_2.jpg" width="400" />
+  <img src="/comparison/trimmed_2.jpg" width="400" />
+  <img src="/comparison/not_trimmed_3.jpg" width="400" />
+  <img src="/comparison/trimmed_3.jpg" width="400" />
 </p>  
 
 
