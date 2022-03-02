@@ -9,7 +9,7 @@
 До  / После
 
 <p float="left">
-  <img src="/comparison/not_trimmed_1.jpg" width="40" />
+  <img src="/comparison/not_trimmed_1.jpg" width="400" />
   <img src="/comparison/trimmed_1.jpg" width="400" />
 </p>  
 
