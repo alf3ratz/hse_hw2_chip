@@ -17,6 +17,16 @@
   <img src="/comparison/trimmed_3.jpg" width="400" />
 </p>  
 
+Результаты для ENCFF002AZY  
+![image](https://user-images.githubusercontent.com/49417479/156275041-ee9093d0-106d-4629-8beb-573d4efb72c2.png)
+![image](https://user-images.githubusercontent.com/49417479/156275060-28e5f382-45bb-4496-a904-52b5392c3f85.png)
+![image](https://user-images.githubusercontent.com/49417479/156275073-ad0c5de8-dbba-449f-88c5-7a68ad5094e2.png)
+
+# Хромосомное выравнивание
+**Таблица** 
+![image](https://user-images.githubusercontent.com/49417479/156275307-0756d6b2-5805-46d2-b930-16a7547cc4a3.png)
+
+
 
 
 
