@@ -7,10 +7,10 @@
 Обрезания последовательностей не производились, так как результаты сильно не меняются  
 Пример для chip-seq ENCFF002AYT  
 <p float="left">
-  <img src="/comparison/not_trimmed_1.png" width="350" />
+  <img src="/comparison/not_trimmed_1.jpg" width="350" />
 </p>
 <p float="right">
-  <img src="/comparison/trimmed_1.png" width="350" />
+  <img src="/comparison/trimmed_1.jpg" width="350" />
 </p>
 
 
