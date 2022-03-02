@@ -32,9 +32,9 @@
 # Сравнение результатов
 <p float="left">
   <img src="/comparison/venn_1_1.jpg" width="400" />
-  <img src="/comparison/venn_1_2.png" width="400" />
-  <img src="/comparison/venn_2_1.png" width="400" />
-  <img src="/comparison/venn_2_2.png" width="400" />
+  <img src="/comparison/venn_1_2.jpg" width="400" />
+  <img src="/comparison/venn_2_1.jpg" width="400" />
+  <img src="/comparison/venn_2_2.jpg" width="400" />
 </p>  
 Ответ на вопрос:  
 
