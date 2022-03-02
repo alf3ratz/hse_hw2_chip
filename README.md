@@ -23,9 +23,17 @@
 ![image](https://user-images.githubusercontent.com/49417479/156275073-ad0c5de8-dbba-449f-88c5-7a68ad5094e2.png)
 
 # Хромосомное выравнивание
-**Таблица** 
+**Таблица**   
 ![image](https://user-images.githubusercontent.com/49417479/156275307-0756d6b2-5805-46d2-b930-16a7547cc4a3.png)
 
+Ответ на вопрос:  
+
+
+# Сравнение результатов
+<p float="left">
+  <img src="/pictures/v1.png" width="400" />
+  <img src="/pictures/v2.png" width="400" />
+</p>
 
 
 
